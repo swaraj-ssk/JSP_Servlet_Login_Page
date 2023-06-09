@@ -1,1 +1,1 @@
-# Login Page using Servlet, JSP and MYSQL
+# Login Page using Servlet, JDBC, JSTL and MYSQL
